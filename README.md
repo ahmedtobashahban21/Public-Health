@@ -37,7 +37,9 @@ steps:
 - train and test neural network model to estimate missing data.
 - Visualizing the result from the baseline model compared to the neural network.
 - estimate missing sensor measurements across all pollutants
-![Screen Recording (8-19-2023 11-32-33 PM)](https://github.com/ahmedtobashahban21/Public-Health/assets/63298272/dec52143-8a96-42fd-a89e-21899b6bb275)
+
+![Screen Recording (8-19-2023 11-32-33 PM)](https://github.com/ahmedtobashahban21/Public-Health/assets/63298272/f15a2458-1c46-41b1-8ccc-57b253e523c3)
+
 
 
 
