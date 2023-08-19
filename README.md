@@ -1,6 +1,6 @@
 # Air Pollution
 
-#It is evident through this notebook the proportions of air pollutants in many places
+# It is evident through this notebook the proportions of air pollutants in many places
     - Explore Phase
     - Design Phase 
     - Implement Phase
