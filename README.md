@@ -32,6 +32,7 @@ steps:
 - Visualizing the extent and distribution of missing values.
 - Visualizing simple methods for estimating missing values.
 - Run the nearest neighbor method to establish a baseline.
+
 **Neural Network
 
 - prepare the data to train a neural network
