@@ -9,7 +9,11 @@
 # This notebook is explanatory and presents the data we possess
 
 # 1. Explore Phase
-- First, we import libraries that we use: ( matplotlib, seaborn, ipywidget ) are mainly used.
+- First, we import libraries that we use:
+    - matplotlib
+    - seaborn
+    - ipywidget
+ are mainly used.
 - Implement functions::
   - create_histogram_plot: to show a histogram between stations and pollutants you can select any station and pollutant.
   - create_boxplot : to show the concentration of each pollutant in every station.
