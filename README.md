@@ -2,8 +2,7 @@
 
 # It is evident through this notebook the proportions of air pollutants in many places
     - Explore Phase
-    - Design Phase 
-    - Implement Phase
+    - Design and Implement Phase
 
 - Among these influences are: ['PM2.5', 'PM10', 'NO','NO2', 'NOX', 'CO','OZONO']
 
@@ -23,7 +22,7 @@
 ![Screen Recording (8-9-2023 11-32-33 PM)](https://github.com/ahmedtobashahban21/Public-Health/assets/63298272/309e0955-6600-45cc-85aa-862935fe4e6a)
 
 
-# 2. Design Phase 
+# 2. Design and Implement Phase 
 steps:
 
 - Implement Functions
